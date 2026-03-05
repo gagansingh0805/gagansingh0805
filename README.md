@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gagan Singh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Engineer;Distributed+Systems+Enthusiast;LeetCode+Guardian+2226;Spring+Boot+%7C+Kafka+%7C+Microservices" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Distributed+Systems;Spring+Boot+%7C+Kafka+%7C+Microservices" />
 </p>
 
 ---
@@ -14,19 +14,43 @@
 ⚡ **LeetCode Guardian (2226)** | **CodeChef 3⭐ (1768)**  
 
 ---
+# 💻 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+### Databases & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
+
+---
 
 # 🏆 Competitive Programming
 
 <p align="center">
-
 <a href="https://leetcode.com/u/gagan_singh2005/">
 <img src="https://img.shields.io/badge/LeetCode-2226%20Guardian-orange?style=for-the-badge&logo=leetcode"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/gagan_singh08">
 <img src="https://img.shields.io/badge/CodeChef-1768%203⭐-brown?style=for-the-badge&logo=codechef"/>
 </a>
-
 </p>
 
 ---
@@ -35,7 +59,7 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/gagan_singh2005?theme=dark&font=Kulim%20Park&ext=contest" width="760"/>
+<img src="https://leetcard.jacoblin.cool/gagan_singh2005?theme=dark&font=Kulim%20Park&ext=heatmap" width="760"/>
 
 </p>
 
@@ -87,33 +111,6 @@
 • Integrated **Google Gemini API** to dynamically generate structured narratives  
 • Built an **asynchronous text-to-speech pipeline** to convert stories into audio  
 • Designed a **React interface** for interactive story generation and playback
----
-
-# 💻 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Backend
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
-### Databases & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
-
 ---
 
 # 🌐 Connect
