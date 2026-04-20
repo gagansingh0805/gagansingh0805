@@ -104,7 +104,7 @@
 
 # 🚀 Projects
 
-### 🌾 [HarvestHub — AI AgriTech Platform](https://github.com/gagansingh0805/harvesthub)
+### 🌾 [HarvestHub — AI AgriTech Platform](https://github.com/gagansingh0805/Harvest-Hub)
 
 **Stack:** MERN · Gemini API · TailwindCSS  
 
